@@ -14,5 +14,7 @@ elif day == "6":
     print("Суббота")
 elif day == "7":
     print("Воскресенье")
+elif day == "8":
+    print("восемь")
 else:
     print("Ошибка!:")
